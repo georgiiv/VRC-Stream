@@ -1,4 +1,4 @@
-# VRCStream
+# VRC-Stream
 
 NodeJS and OBS are needed.  
 ffmpeg.exe is needed in the main folder (same place main.js is).  
